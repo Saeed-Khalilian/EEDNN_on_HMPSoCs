@@ -10,7 +10,7 @@ This repository contains the source code associated with the following paper:
 
 This project is built on top of the [ARM-CO-UP](https://github.com/Ehsan-aghapour/ARM-CO-UP) framework, which provides the core infrastructure for efficient DL inference on heterogeneous Multi-Processing SoCs (HMPSoCs).
 
-As part of this work, the `earlyexit` branch of ARM-CO-UP was developed to support early-exit DNN architectures tailored to this project.  
+**As part of this work**, the `earlyexit` branch of ARM-CO-UP was developed to support early-exit DNN architectures tailored to this project.  
 This customized version of the framework is included as a Git submodule in the `ARM-CO-UP/` directory.
 
 🔗 For general-purpose use of the ARM-CO-UP framework and additional branches, please refer to the main repository:
